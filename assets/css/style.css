@@ -1,0 +1,419 @@
+.all_section_padding {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.top_section_pd {
+  padding-top: 40px;
+}
+
+.bottom_section_pd {
+  padding-bottom: 40px;
+}
+
+----------------------------------------------------------------------------------------------------
+  header {
+  color: rgb(15, 0, 68);
+  /* position: fixed; */
+  /* width: 100%; */
+}
+
+.nav_header {
+  background-color: rgb(255, 233, 197);
+  padding: 10px 0px 10px 0px;
+}
+
+header i {
+  font-size: 25px;
+}
+
+header li {
+  font-weight: bold;
+}
+
+.cart_btn {
+  border-radius: 60%;
+  width: 50px;
+  height: 50px;
+  background-color: rgba(255, 228, 196, 0);
+}
+
+.cart_btn i {
+  font-size: 15px;
+  padding: 0px 5px 0px 5px;
+}
+
+.search_icon {
+  font-size: 20px;
+  padding: 0px 5px 0px 5px;
+}
+
+.main_header .booknow_btn {
+  padding: 8px 20px 8px 20px;
+  background-color: rgba(255, 142, 81, 0.941);
+  color: rgb(255, 255, 255);
+  border: 1px solid black;
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.petpath_section1 {
+  background-image: url(/assets/images/section-bg-creme.png);
+  /* background-repeat: no-repeat; */
+  background-color: rgb(255, 233, 197);
+}
+
+.ourservices_btn {
+  background-color: rgba(255, 142, 81, 0.941);
+  border-radius: 30px;
+  padding: 15px 50px 15px 50px;
+  color: rgb(255, 255, 255);
+  text-decoration-line: none;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+#heading2 {
+  font-size: 70px;
+}
+
+.peach_subheading {
+  color: rgb(248, 130, 67);
+}
+.oval-1,
+.oval-2,
+.oval-3 {
+  border: 1px solid black;
+  height: 450px;
+  border-radius: 50%;
+}
+
+.oval-1 {
+  background-color: rgb(148, 255, 157);
+}
+.oval-2 {
+  background-color: rgb(248, 130, 67);
+}
+
+.oval-3 {
+  background-color: rgb(91, 222, 255);
+}
+
+ul li {
+  font-weight: bold;
+  padding: 20px 0px 20px 0px;
+}
+
+#moreservice_btn,
+#moreaboutus_btn,
+#moremembers_btn {
+  background-color: rgba(255, 142, 81, 1);
+  border-radius: 30px;
+  padding: 15px 35px 15px 35px;
+  color: rgb(255, 255, 255);
+  text-decoration-line: none;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.aboutus_section3 {
+  background-color: rgb(245, 209, 89);
+}
+
+.pointers_pet ul li {
+  list-style: none;
+}
+
+.pointers_pet i {
+  color: rgb(245, 209, 89);
+  border-radius: 50%;
+  padding: 0px 2px 0px 2px;
+  background-color: rgb(248, 130, 67);
+  font-size: 15px;
+}
+
+.ourpricing_section4 {
+  background-color: rgb(148, 255, 157);
+}
+
+.leftsidecard_section4 {
+  padding-right: 30px;
+}
+
+.pricecard img {
+  background-color: rgb(245, 209, 89);
+  border-radius: 50%;
+  border: 1px solid black;
+  padding: 7px 8px 7px 8px;
+}
+
+.pricecard_2 img {
+  background-color: rgb(148, 255, 157);
+  border-radius: 50%;
+  border: 1px solid black;
+  padding: 7px 8px 7px 8px;
+}
+
+.pricecard,
+.pricecard_2 {
+  height: 600px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  border-radius: 20px;
+}
+
+.book_button {
+  background-color: rgba(255, 142, 81, 0.941);
+  border-radius: 30px;
+  padding: 15px 80px 15px 80px;
+  color: rgb(255, 255, 255);
+  text-decoration-line: none;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.cardp {
+  padding: 40px 0px 40px 0px;
+  border-top: 1px solid;
+  border-bottom: 1px solid;
+  border-color: rgba(140, 140, 140, 0.295);
+  /* width: 80%; */
+  /* text-align: center; */
+}
+
+.pricecard h3 img {
+  padding: 10px 0px 0px 0px;
+}
+
+.icon_img {
+  padding-top: 40px;
+}
+
+.member_card {
+  border-radius: 9999px;
+  overflow: hidden;
+  margin: 10px 0px 10px 0px;
+}
+
+.member_card img {
+  width: 100%;
+  padding: 0;
+  /* height: 300px; */
+}
+
+.member_info {
+  background-color: rgb(148, 255, 157);
+}
+
+.member_info2 {
+  background-color: rgb(248, 130, 67);
+}
+
+.member_info3 {
+  background-color: rgb(245, 209, 89);
+}
+
+.social_icons i {
+  padding: 6px 6px 6px 6px;
+  background-color: rgb(0, 18, 70);
+  color: #ffffff;
+  border-radius: 50%;
+  font-size: 18px;
+}
+
+.social_icons {
+  gap: 10px;
+}
+
+.appointment_section7 {
+  background-color: aqua;
+}
+.aptn_form {
+  background-color: bisque;
+  text-align: center;
+  height: 640px;
+  border-radius: 12px;
+  border: 1px solid black;
+}
+
+.aptn_form input {
+  padding: 15px 35px 15px 35px;
+  border-radius: 10px;
+  border: 0.5px solid;
+  margin: 15px 0px 15px 0px;
+}
+
+#aptn_btn {
+  background-color: rgba(255, 142, 81, 0.941);
+  border-radius: 15px;
+  padding: 15px 40px 15px 40px;
+  color: rgb(255, 255, 255);
+  text-decoration-line: none;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.blogs_section8 {
+  background-color: rgb(255, 233, 197);
+}
+
+.blog img {
+  width: 100%;
+  border-radius: 20px;
+}
+
+.blog i {
+  color: rgb(248, 130, 67);
+}
+.blogbase {
+  justify-content: space-between;
+}
+
+#moreblogs {
+  text-align: end;
+  background-color: rgba(255, 142, 81, 1);
+  border-radius: 30px;
+  padding: 12px 35px 12px 35px;
+  color: rgb(255, 255, 255);
+  text-decoration-line: none;
+  border: 1px solid black;
+  font-weight: bold;
+}
+
+.searchbar_footer {
+  border: 1px solid black;
+  border-radius: 30px;
+  padding: 11px 10px 11px 10px;
+  width: 50%;
+  background-color: #ffffff;
+}
+
+.searchbar_footer button {
+  padding: 11px 18px 11px 18px;
+  background-color: rgb(245, 209, 89);
+  border: none;
+  border-radius: 30px;
+  color: black;
+  font-weight: 600;
+}
+
+.main_footer {
+  background-color: rgb(252, 130, 77);
+}
+
+.socialicons_footer i {
+  border-radius: 30px;
+  border: 0.5px solid rgb(15, 0, 68);
+  padding: 8px;
+  font-size: 12px;
+}
+
+.footer_petpath,
+.socialicons_footer h2,
+p,
+img {
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+.pagescontact_footer ul li {
+  list-style: none;
+  padding-top: 0;
+  font-family: "Times New Roman", Times, serif;
+  font-style: normal;
+}
+
+.pagescontact_footer {
+  justify-content: space-between;
+}
+
+.timings_footer {
+  border-radius: 20px;
+  border: 1px solid black;
+  background-color: rgb(245, 209, 89);
+  width: 75%;
+  height: 200px;
+}
+
+.timings_footer ul li {
+  list-style: none;
+  padding: 8px;
+}
+
+.timings_footer h3 {
+  padding: 8px 0px 8px 32px;
+}
+
+.copyright_footer {
+  border-top: 1px solid rgba(140, 140, 140, 0.498);
+}
+/* --------------------------------------------------------------------------------------------------------- */
+
+.foot .foot_head .search {
+  width: 550px;
+  border: 2px solid black;
+  height: 60px;
+  border-radius: 30px;
+}
+
+.foot .foot_head .search_div {
+  text-align: center;
+}
+
+.foot .foot_main .foot_col_two ul {
+  list-style: none;
+}
+
+.foot .foot_main .foot_col_two ul a {
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
+}
+
+.foot .foot_main .foot_col_three ul {
+  list-style: none;
+}
+
+.foot .foot_main .foot_col_three ul a {
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
+}
+
+.foot .foot_main .foot_col_four {
+  background-color: rgb(244, 244, 92);
+  padding: 10px 10px;
+  border: 1px solid black;
+  border-radius: 12px;
+}
+
+.foot .foot_main .foot_col_four ul {
+  list-style: none;
+}
+
+.foot .foot_main .foot_col_four ul a {
+  text-decoration: none;
+  color: black;
+  font-weight: 400;
+}
+
+.foot .foot_main .foot_col_four ul li a {
+  gap: 5px;
+}
+
+.foot .foot_last {
+  border-top: 0.5px solid rgb(98, 95, 95);
+  margin: 0;
+  padding-top: 13px;
+  padding-bottom: 3px;
+  background-image: url(/assets/images/footer-bg.png);
+}
+
+.foot .foot_cat {
+  /* position: absolute;
+  bottom: 500px; */
+}
+
+.foot {
+  background-color: rgb(252, 130, 77);
+}
